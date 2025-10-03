@@ -36,4 +36,4 @@ It demonstrates how to use subqueries in different clauses and contexts to extra
 - MySQL supports subqueries in most places, but performance may require rewriting as joins for large datasets.  
 
 ## Author
-Syed Ahmed Ali  
+vishwachari
